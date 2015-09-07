@@ -145,16 +145,10 @@ As Highrise Technologies is IBM Business Partner Company so We Work on IBM Produ
                 <ul>
                     <li class="title"><span class="glyphicon glyphicon-book"></span>Education</li>
                     <li>
-                        <span class="note">January 2005 - December 2008</span>
-                        <p><strong>Masters Degree</strong></p>
-                        <p><strong>University of IT</strong> in Melbourne, Australia</p>
-                        <p class="description">Vestibulum ut pharetra diam, vitae hendrerit sapien. Praesent porttitor augue nec semper suscipit. Nulla et cursus lectus. Praesent vel feugiat dolor.</p>
-                    </li>
-                    <li>
-                        <span class="note">January 2002 - December 2005</span>
+                        <span class="note">October 2010 - June 2015</span>
                         <p><strong>Bachelors Degree</strong></p>
-                        <p><strong>University of IT</strong> in Melbourne, Australia</p>
-                        <p class="description">Donec vel nulla mollis, mattis orci vel, vulputate tellus. Cras interdum sapien quis risus mattis egestas. Etiam rhoncus lacus turpis, in vulputate arcu imperdiet non.</p>
+                        <p><strong>Government College University</strong> in Faislabad, Pakistan</p>
+                        <p class="description">The place where i learned Basic knowledge of Computer Science which helped me a lot in my Professional Career. The main concentrations are on Data Structure, OOP , Programming Fundamentals and Web Engineering</p>
                     </li>
                 </ul>
             </div>
@@ -168,21 +162,39 @@ As Highrise Technologies is IBM Business Partner Company so We Work on IBM Produ
                 <ul>
                     <li class="title"><span class="glyphicon glyphicon-tasks"></span>Professional skills</li>
                     <li>
-                        <p>Adobe InDesign<span class="annotation pull-right">95%</span></p>
+                        <p>HTML5<span class="annotation pull-right">95%</span></p>
                         <div class="progress">
                             <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width: 95%;"></div>
                         </div>
                     </li>
                     <li>
-                        <p>Adobe Photoshop<span class="annotation pull-right">85%</span></p>
+                        <p>CSS3<span class="annotation pull-right">85%</span></p>
                         <div class="progress">
                             <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%;"></div>
                         </div>
                     </li>
                     <li>
-                        <p>Adobe Illustrator<span class="annotation pull-right">70%</span></p>
+                        <p>JAVASCRIPT<span class="annotation pull-right">70%</span></p>
                         <div class="progress">
                             <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div>
+                        </div>
+                    </li>
+                    <li>
+                        <p>PSD to HTML5<span class="annotation pull-right">90%</span></p>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div>
+                        </div>
+                    </li>
+                    <li>
+                        <p>PHP<span class="annotation pull-right">70%</span></p>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div>
+                        </div>
+                    </li>
+                    <li>
+                        <p>Ruby On Rails<span class="annotation pull-right">90%</span></p>
+                        <div class="progress">
+                            <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div>
                         </div>
                     </li>
                 </ul>
@@ -291,11 +303,9 @@ As Highrise Technologies is IBM Business Partner Company so We Work on IBM Produ
                         <p><strong>121 King Street, Melbourne</strong></p>
                         <p><strong>Victoria 3000 Australia</strong></p>
                         <span class="note">Mobile</span>
-                        <p><strong>987 654 321</strong></p>
-                        <span class="note">Phone</span>
-                        <p><strong>+61 3 8376 6284</strong></p>
+                        <p><strong>+92-347-8666955</strong></p>
                         <span class="note">Email</span>
-                        <p><strong><a href="#">mark.william.connor@gmail.com</a></strong></p>
+                        <p><strong><a href="#">workquries@gmail.com</a></strong></p>
                         <hr class="empty">
                         <form action="contact.php" method="post">
                             <div class="form-group input-group">
@@ -329,5 +339,5 @@ As Highrise Technologies is IBM Business Partner Company so We Work on IBM Produ
 <script src="js/scripts.js"></script>
 <script src="js/jquery.easypiechart.js"></script>
 <script src="js/chart.js"></script>
-  </body>
+</body>
 </html>
