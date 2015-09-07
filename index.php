@@ -9,7 +9,7 @@
 <title>Junaid Farooq | Web Developer and Designer</title>
 
 <!-- google web font-->
-<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700" rel="stylesheet" type="text/css">
 
 <!-- style sheets-->
 <link rel="stylesheet" media="all" href="css/bootstrap.css" type="text/css">
