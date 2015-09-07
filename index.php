@@ -10,6 +10,7 @@
 
 <!-- google web font-->
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700" rel="stylesheet" type="text/css">
+<link href='https://fonts.googleapis.com/css?family=Ruda:400,700,900' rel='stylesheet' type='text/css'>
 
 <!-- style sheets-->
 <link rel="stylesheet" media="all" href="css/bootstrap.css" type="text/css">
@@ -55,8 +56,8 @@
                 <img src="img/face.jpg" class="face" alt="">
                 <hr class="empty">
                 <p class="header-name">Junaid Farooq</p>
-                <p class="header-title">Web Developer &amp; Web Designer</p>
-                <p class="header-subtitle"><b>Hello my name is Mark William Connor</b> and I'm a Web Designer &amp; Web Developer from Melbourne, Australia. In pharetra orci dignissim, blandit mi semper, ultricies diam. Suspendisse malesuada suscipit nunc non volutpat. Sed porta nulla id orci laoreet tempor non consequat enim. Sed vitae aliquam velit. Aliquam ante erat, blandit at pretium et, accumsan ac est. Integer vehicula rhoncus molestie. Morbi ornare ipsum sed sem condimentum, et pulvinar tortor luctus. Suspendisse condimentum lorem ut elementum aliquam. Mauris nec erat ut libero vulputate pulvinar.</p>
+                <p class="header-title">I am a designer who think in code.</p>
+                <p class="header-subtitle">I am a 23 years old Web App Developer and Website Designer that lives in Sahiwal, Pakistan. I have over 3 years of experience in creating cool interfaces for awesome people around the world. Lately, I've been concentrating my attention on Ruby On Rails and BackboneJS but I really enjoy to create other interfaces as well (php , css3 , html5 , AJAX , MySql , javascript).</p>
             </div>
         </div>
     </div>
@@ -93,28 +94,44 @@
                 <ul>
                     <li class="title"><span class="glyphicon glyphicon-briefcase"></span>Work experience</li>
                     <li>
-                        <span class="note">June 2012 - Current</span>
-                        <p><strong>IT Group</strong></p>
-                        <p><strong>Lead Web Designer</strong> in Melbourne, AU</p>
-                        <p class="description">Vestibulum ut pharetra diam, vitae hendrerit sapien. Praesent porttitor augue nec semper suscipit. Nulla et cursus lectus. Praesent vel feugiat dolor.</p>
+                        <span class="note">Sepetmber 2015 - Current</span>
+                        <p><strong>WebSol Technologies</strong></p>
+                        <p><strong>Lead Web App Developer</strong> in New York. (FSD Office)</p>
+                        <p class="description">Web Application Development under RubyOnRails with Ruby Gems (Rspec,Devise, DeviseLdap ,Guard,Cucumber) Development with TDD and BDD. 
+
+PSD to ERB.
+
+HAML, Cofee Script.
+Core Concepts of MVC in Rails along with BackboneJs / EmberJs .
+Google Analytics.
+Git deployment to Heroku.
+AWS + Web Services
+LinuxMint , Ubuntu and Lubuntu environment.
+Rails 4.2.3 over Ruby 2.2.2, 
+Jruby As JVM over Windows.
+
+*Vagrant Machine over Ubuntu 14.04 Trusty Tahr*
+Synced Vagrant with HOST MACHINE for development</p>
                     </li>
                     <li>
-                        <span class="note">September 2010 - Current</span>
-                        <p><strong>Freelance</strong></p>
-                        <p><strong>Lead Web Developer</strong> in Melbourne, AU</p>
-                        <p class="description">Donec vel nulla mollis, mattis orci vel, vulputate tellus. Cras interdum sapien quis risus mattis egestas. Etiam rhoncus lacus turpis, in vulputate arcu imperdiet non.</p>
+                        <span class="note">August 2014 - August 2015</span>
+                        <p><strong>Highrise Technologies</strong></p>
+                        <p><strong>Development Executive And IAM Support Engineer</strong> in Islamabad Pakistan</p>
+                        <p class="description">I started as a JavaScript Developer. After few months I shifted to Support Engineers for Our STC Project.
+As Highrise Technologies is IBM Business Partner Company so We Work on IBM Products such as IBM Security Access Manager. So currently I am On Product Side and My Concentrations are on IBM Security Access Manager which are Product Installation and Deployment.</p>
                     </li>
                     <li>
-                        <span class="note">September 2010 - Current</span>
-                        <p><strong>Freelance</strong></p>
-                        <p><strong>Lead Web Developer</strong> in Melbourne, AU</p>
-                        <p class="description">Donec vel nulla mollis, mattis orci vel, vulputate tellus. Cras interdum sapien quis risus mattis egestas. Etiam rhoncus lacus turpis, in vulputate arcu imperdiet non.</p>
+                        <span class="note">September 2012 - Current</span>
+                        <p><strong>Future Fame (Freelancer)</strong></p>
+                        <p><strong>Lead Web Developer</strong> in Anaheim, CA</p>
+                        <p class="description">I'm a part time freelancer with 3 years of experience in creative industry, plus Web Designer professional. During the graduation, I worked in marketing agencies and retail companies' marketing departments, as a web designer in Future Fame. 
+                        Never stopped learning new things and honing my skill, so my design always follows the latest trends (unless asked not to) but keeps my clean style. </p>
                     </li>
                     <li>
-                        <span class="note">September 2010 - Current</span>
+                        <span class="note">Short Term Projects</span>
                         <p><strong>Freelance</strong></p>
-                        <p><strong>Lead Web Developer</strong> in Melbourne, AU</p>
-                        <p class="description">Donec vel nulla mollis, mattis orci vel, vulputate tellus. Cras interdum sapien quis risus mattis egestas. Etiam rhoncus lacus turpis, in vulputate arcu imperdiet non.</p>
+                        <p><strong>Lead Web Developer</strong> Pakistan</p>
+                        <p class="description">In my all short term projects , inlcudes many companies in Pakistan such as Reseller Home, Hussain And Co, Syed Ijal Enterprises, Rayan Travels Netherland, Eidgah Sharif , Rathor International, Al Nijran OEP , Apple Care Co. </p>
                     </li>
                 </ul>
             </div>

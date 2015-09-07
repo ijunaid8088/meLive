@@ -5,12 +5,12 @@
 /* General Styles ---------------------------------------------- */
 
 body {
-    background: url('../img/bg.png');
+    background: url('../img/background_01.jpg');
     background-position: top center;
     background-attachment: fixed;
     background-color: #fff;
-    color: #000;
-    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-family: 'Ruda', sans-serif;
     font-size: 13px;
 	overflow-x: hidden;
 }
@@ -20,7 +20,7 @@ header {
 }
 
 a {
-    color: #000;
+    color: white;
     text-decoration: none;
     outline: none;
     outline-offset: 0;
@@ -308,16 +308,16 @@ nav ul li {
 nav ul li:hover {
     list-style-image: url('../img/list-style-nav-on.png');
     padding-left: 25px !important;
-    color: #000;
+    color: white;
 }
 
 nav ul li:hover a {
-    color: #000;
+    color: white;
 }
 
 nav ul li.active {
     list-style-image: url('../img/list-style-nav-on.png');
-    color: #000;
+    color: white;
 }
 
 nav a {
@@ -332,11 +332,11 @@ nav a:focus {
 
 nav li a {
     border-bottom: 0;
-    color: rgba(0, 0, 0, 0.5);
+    color: white;
 }
 
 nav .active a {
-    color: #000;
+    color: white;
     font-weight: bold;
 }
 
@@ -413,6 +413,9 @@ nav .active a {
 .header-subtitle {
     padding-top: 25px;
     font-style: italic;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
     margin-bottom: 100px;
 }
 
@@ -567,8 +570,8 @@ textarea.form-control {
 }
 
 .input-group-addon {
-    color: #000;
-    background-color: rgba(0, 0, 0, 0.05);
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
     border: 0;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
     -webkit-border-radius: 3px;
