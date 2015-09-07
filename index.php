@@ -254,10 +254,11 @@ As Highrise Technologies is IBM Business Partner Company so We Work on IBM Produ
                 <ul>
                     <li class="title"><span class="glyphicon glyphicon-eye-open"></span>Portfolio</li>
                     <li class="static">
-                        <img src="img/1.jpg" alt="" data-toggle="modal" data-target="#modal1">
-                        <img src="img/2.jpg" alt="" data-toggle="modal" data-target="#modal2">
-                        <img src="img/3.jpg" alt="" data-toggle="modal" data-target="#modal3">
-                        <img src="img/4.jpg" alt="" data-toggle="modal" data-target="#modal4">
+                        <img src="img/1.png" alt="" data-toggle="modal" data-target="#modal1">
+                        <img src="img/2.png" alt="" data-toggle="modal" data-target="#modal2">
+                        <img src="img/3.png" alt="" data-toggle="modal" data-target="#modal3">
+                        <img src="img/4.png" alt="" data-toggle="modal" data-target="#modal4">
+                        <img src="img/5.png" alt="" data-toggle="modal" data-target="#modal5">
                     </li>
                 </ul>
             </div>
@@ -267,28 +268,35 @@ As Highrise Technologies is IBM Business Partner Company so We Work on IBM Produ
 <div id="modal1" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="modal1" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-box">
-            <img src="img/1.jpg" alt="">
+            <img src="img/1.png" alt="">
         </div>
     </div>
 </div>
 <div id="modal2" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="modal2" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-box">
-            <img src="img/2.jpg" alt="">
+            <img src="img/2.png" alt="">
         </div>
     </div>
 </div>
 <div id="modal3" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="modal3" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-box">
-            <img src="img/3.jpg" alt="">
+            <img src="img/3.png" alt="">
         </div>
     </div>
 </div>
 <div id="modal4" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="modal4" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-box">
-            <img src="img/4.jpg" alt="">
+            <img src="img/4.png" alt="">
+        </div>
+    </div>
+</div>
+<div id="modal5" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="modal5" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-box">
+            <img src="img/5.png" alt="">
         </div>
     </div>
 </div>
