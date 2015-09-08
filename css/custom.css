@@ -114,7 +114,7 @@ strong {
 }
 
 .progress-bar-success {
-    background-color: #F0B937;
+    background-color: #FFA700;
 }
 
 .annotation {
@@ -346,6 +346,7 @@ nav .active a {
     width: 100%;
     top: 0;
     left: 0;
+    color: black;
     text-align: center;
     font-weight: bold;
 }
@@ -372,6 +373,7 @@ nav .active a {
     list-style: none;
     background-color: #fff;
     border: 0;
+    color: black;
     border-radius: 0;
     -webkit-box-shadow: none;
     box-shadow: none;

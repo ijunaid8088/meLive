@@ -308,10 +308,10 @@ As Highrise Technologies is IBM Business Partner Company so We Work on IBM Produ
                     <li class="title"><span class="glyphicon glyphicon-envelope"></span>Contact</li>
                     <li class="static">
                         <span class="note">Address</span>
-                        <p><strong>121 King Street, Melbourne</strong></p>
-                        <p><strong>Victoria 3000 Australia</strong></p>
+                        <p><strong>Ramey Town, Sahiwal</strong></p>
+                        <p><strong>5700 Pakistan</strong></p>
                         <span class="note">Mobile</span>
-                        <p><strong>+92-347-8666955</strong></p>
+                        <p><strong>92-347-8666955</strong></p>
                         <span class="note">Email</span>
                         <p><strong><a href="#">workquries@gmail.com</a></strong></p>
                         <hr class="empty">
