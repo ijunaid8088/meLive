@@ -77,10 +77,17 @@
                         <p><strong>09 September 1991</strong></p>
                         <p><strong>Bahawalpur, Pakistan</strong></p>
                     </li>
-                    
                     <li>
                         <span class="note">LinkedIn Profile</span>
                         <p><strong><a href="#">https://pk.linkedin.com/in/iamjunnii</a></strong></p>
+                    </li>
+                    <li>
+                        <span class="note">GitHub</span>
+                        <p><strong><a href="#">https://github.com/ijunaidfarooq</a></strong></p>
+                    </li>
+                    <li>
+                        <span class="note">Facebook</span>
+                        <p><strong><a href="#">http://www.facebook.com/iOkay.uOkay</a></strong></p>
                     </li>
                 </ul>
             </div>
@@ -232,15 +239,15 @@ As Highrise Technologies is IBM Business Partner Company so We Work on IBM Produ
                     <li class="title"><span class="glyphicon glyphicon-heart-empty"></span>Interests</li>
                     <li>
                         <p><strong>Books</strong></p>
-                        <p class="description">Vestibulum ut pharetra diam, vitae hendrerit sapien. Praesent porttitor augue nec semper suscipit. Nulla et cursus lectus. Praesent vel feugiat dolor.</p>
+                        <p class="description">Zaviya by Ishfaq Ahmed, What We Talk When We Talk About Love by Raymond Carver</p>
                     </li>
                     <li>
                         <p><strong>Art</strong></p>
-                        <p class="description">Donec vel nulla mollis, mattis orci vel, vulputate tellus. Cras interdum sapien quis risus mattis egestas. Etiam rhoncus lacus turpis, in vulputate arcu imperdiet non.</p>
+                        <p class="description">Who don't love art and nature , huge fan of Photographic Societies over Instagram : jamesrelfdyer</p>
                     </li>
                     <li>
-                        <p><strong>Basketball</strong></p>
-                        <p class="description">Maecenas velit eros, congue quis accumsan sed, consequat id magna. Pellentesque at auctor lacus.</p>
+                        <p><strong>Football</strong></p>
+                        <p class="description">In my spare times I love to watch football</p>
                     </li>
                 </ul>
             </div>
