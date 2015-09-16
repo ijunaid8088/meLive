@@ -320,7 +320,7 @@ As Highrise Technologies is IBM Business Partner Company so We Work on IBM Produ
                         <span class="note">Mobile</span>
                         <p><strong>92-347-8666955</strong></p>
                         <span class="note">Email</span>
-                        <p><strong><a href="#">workquries@gmail.com</a></strong></p>
+                        <p><strong><a href="#">workingquries@gmail.com</a></strong></p>
                         <hr class="empty">
                         <form action="contact.php" method="post">
                             <div class="form-group input-group">
