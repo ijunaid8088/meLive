@@ -322,7 +322,7 @@ As Highrise Technologies is IBM Business Partner Company so We Work on IBM Produ
                         <span class="note">Email</span>
                         <p><strong><a href="#">workingquries@gmail.com</a></strong></p>
                         <hr class="empty">
-                        <form action="contact.php" method="post">
+                        <form action="yeah.php" method="post">
                             <div class="form-group input-group">
                                 <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
                                 <input name="yourname" type="text" class="form-control" id="inputname" placeholder="Enter your name" required>
