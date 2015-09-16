@@ -5,22 +5,22 @@
 /* General Styles ---------------------------------------------- */
 
 body {
-    background: url('../img/background_01.jpg');
+    background: url('../img/bg.png');
     background-position: top center;
     background-attachment: fixed;
     background-color: #fff;
-    color: white;
+    color: #000;
     font-family: 'Ruda', sans-serif;
     font-size: 13px;
 	overflow-x: hidden;
 }
 
 header {
-	margin-top: 50px;
+    margin-top: 50px;
 }
 
 a {
-    color: white;
+    color: #000;
     text-decoration: none;
     outline: none;
     outline-offset: 0;
@@ -92,7 +92,7 @@ strong {
 
 
 .progress {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.05);
     height: 7px;
     margin-left: 9px;
     -webkit-border-radius: 3px;
@@ -114,7 +114,7 @@ strong {
 }
 
 .progress-bar-success {
-    background-color: #FFA700;
+    background-color: #ffa700;
 }
 
 .annotation {
@@ -207,10 +207,10 @@ ul .description {
 /* Top icons ------------------------------------------------- */
 
 .top-icons {
-	position: fixed;
+    position: fixed;
     top: 50px;
     left: 47px;
-	width: 100%;
+    width: 100%;
 }
 
 .top-menu {
@@ -308,16 +308,16 @@ nav ul li {
 nav ul li:hover {
     list-style-image: url('../img/list-style-nav-on.png');
     padding-left: 25px !important;
-    color: white;
+    color: #000;
 }
 
 nav ul li:hover a {
-    color: white;
+    color: #000;
 }
 
 nav ul li.active {
     list-style-image: url('../img/list-style-nav-on.png');
-    color: white;
+    color: #000;
 }
 
 nav a {
@@ -332,11 +332,11 @@ nav a:focus {
 
 nav li a {
     border-bottom: 0;
-    color: white;
+    color: rgba(0, 0, 0, 0.5);
 }
 
 nav .active a {
-    color: white;
+    color: #000;
     font-weight: bold;
 }
 
@@ -346,7 +346,6 @@ nav .active a {
     width: 100%;
     top: 0;
     left: 0;
-    color: black;
     text-align: center;
     font-weight: bold;
 }
@@ -373,7 +372,6 @@ nav .active a {
     list-style: none;
     background-color: #fff;
     border: 0;
-    color: black;
     border-radius: 0;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -415,9 +413,6 @@ nav .active a {
 .header-subtitle {
     padding-top: 25px;
     font-style: italic;
-    text-align: center;
-    font-size: 16px;
-    font-family: 'Open Sans', sans-serif;
     margin-bottom: 100px;
 }
 
@@ -506,7 +501,7 @@ nav .active a {
 }
 
 .modal {
-	text-align: center;
+    text-align: center;
 }
 
 .modal img {
@@ -572,8 +567,8 @@ textarea.form-control {
 }
 
 .input-group-addon {
-    color: white;
-    background-color: rgba(0, 0, 0, 0.5);
+    color: #000;
+    background-color: rgba(0, 0, 0, 0.05);
     border: 0;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
     -webkit-border-radius: 3px;
@@ -619,7 +614,7 @@ form .glyphicon {
 }
 
 .up {
-	margin-bottom: 100px;
+    margin-bottom: 100px;
     cursor: pointer;
 }
 
@@ -628,7 +623,7 @@ form .glyphicon {
 .settings {
     background-color: rgba(0, 0, 0, 0.75);
     position: fixed;
-	top: 41px;
+    top: 41px;
     left: -200px;
     width: 200px;
     height: 120px;
