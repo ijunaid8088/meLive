@@ -325,21 +325,21 @@ As Highrise Technologies is IBM Business Partner Company so We Work on IBM Produ
                         <form action="contact.php" method="post">
                             <div class="form-group input-group">
                                 <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
-                                <input name="yourname" type="text" class="form-control" id="inputname" placeholder="Enter your name">
+                                <input name="yourname" type="text" class="form-control" id="inputname" placeholder="Enter your name" required>
                             </div>
                             <div class="form-group input-group">
                                 <span class="input-group-addon"><span class="glyphicon glyphicon-envelope"></span></span>
-                                <input name="email" type="email" class="form-control" id="inputemail" placeholder="Enter your email">
+                                <input name="email" type="email" class="form-control" id="inputemail" placeholder="Enter your email" required>
                             </div>
                             <div class="form-group input-group">
                                 <span class="input-group-addon"><span class="glyphicon glyphicon-bold"></span></span>
-                                <input name="subject" type="text" class="form-control" id="inputsubject" placeholder="Enter subject">
+                                <input name="subject" type="text" class="form-control" id="inputsubject" placeholder="Enter subject" required>
                             </div>
                             <div class="form-group input-group">
                                 <span class="input-group-addon"><span class="glyphicon glyphicon-comment"></span></span>
-                                <textarea name="comments" class="form-control" id="inputmessage" rows="3" placeholder="Enter message here"></textarea>
+                                <textarea name="comments" class="form-control" id="inputmessage" rows="3" placeholder="Enter message here" required></textarea>
                             </div>
-                            <button type="submit" class="btn btn-success pull-right"><span class="glyphicon glyphicon-send"></span> Send message</button>
+                            <input type="submit" class="btn btn-success pull-right" name="submit" value="Send Message"><span class="glyphicon glyphicon-send"></span>
                         </form>
                     </li>
                     <li class="title up"><span class="glyphicon glyphicon-arrow-up"></span>Up</li>
