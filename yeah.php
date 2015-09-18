@@ -1,10 +1,12 @@
 <?php
-require("sendgrid-php/sendgrid-php.php");
+require 'PHPMailerAutoload.php';
+
+
 if (isset($_POST["submit"])) {
 
-	$message = $_POST['message'];
-	$messenger = $_POST['messenger'];
-	$gmail = 'iamvistor@visit.com';
+	$message = $_POST['comments'];
+	$messenger = $_POST['yourname'];
+	$from = $_POST['email'];
 
 	$message = '<html><body>';
 	$message .= '<table rules="all" style="border-color: #666;" cellpadding="10">';
@@ -22,39 +24,41 @@ if (isset($_POST["submit"])) {
 			$headers .= "Reply-To: ". strip_tags($gmail) . "\r\n";
 			$headers .= "MIME-Version: 1.0\r\n";
 			$headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
-			$sendgrid = new SendGrid('ijunaidfarooq', 'Allahisthebest1');
-			$email = new SendGrid\Email();
-			$email
-			    ->addTo($to)
-			    ->setFrom($gmail)
-			    ->setSubject($subject)
-			    ->setText($headers)
-			    ->setHtml($message)
-			;
 
-			//$sendgrid->send($email);
+		$mail = new PHPMailer(); // create a new object
+		$mail->IsSMTP(); // enable SMTP
+		$mail->SMTPDebug = 1; // debugging: 1 = errors and messages, 2 = messages only
+		$mail->SMTPAuth = true; // authentication enabled
+		$mail->SMTPSecure = 'ssl'; // secure transfer enabled REQUIRED for GMail
+		$mail->Host = "smtp.gmail.com";
+		$mail->Port = 465; // or 587
+		$mail->IsHTML(true);
+		$mail->Username = "ijunaidfarooq@gmail.com";
+		$mail->Password = "Junaid123@";
+		$mail->SetFrom($from);
+		$mail->Subject = $subject;
+		$mail->Body = $message;
+		$mail->AddAddress($to);
 
-			// Or catch the error
 
-			try {
-			    $sendgrid->send($email); ?>
+			if(!$mail->send()) { 
+				echo 'Message could not be sent.';
+    			echo 'Mailer Error: ' . $mail->ErrorInfo;
+				?>
 			<script>
 			    window.setTimeout(function(){
 			        			// Move to a new location or you can do something else
 			    window.location.href = "index.php";
 					}, 2000);
 			</script>
-			<? } catch(\SendGrid\Exception $e) {
-			    echo $e->getCode();
-			    foreach($e->getErrors() as $er) {
-			        echo $er;
-			    }?>
+			<? } else {
+    			echo 'Message has been sent';
+				}?>
 				<script>
 			    window.setTimeout(function(){
 			        			// Move to a new location or you can do something else
 			    window.location.href = "index.php";
 					}, 2000);
 			</script>
-			<? }
 }
 ?>
