@@ -1,5 +1,5 @@
 <?php
-require 'PHPMailerAutoload.php';
+require ('PHPMailerAutoload.php');
 
 
 if (isset($_POST["submit"])) {

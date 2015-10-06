@@ -57,7 +57,7 @@
                 <hr class="empty">
                 <p class="header-name">Junaid Farooq</p>
                 <p class="header-title">I am a designer who think in code.</p>
-                <p class="header-subtitle">I am a 23 years old Web App Developer and Website Designer that lives in Sahiwal, Pakistan. I have over 3 years of experience in creating cool interfaces for awesome people around the world. Lately, I've been concentrating my attention on Ruby On Rails and BackboneJS but I really enjoy to create other interfaces as well (php , css3 , html5 , AJAX , MySql , javascript).</p>
+                <p class="header-subtitle">I am a 23 years old Web App Developer and Website Designer that lives in Sahiwal, Pakistan. I have over 3 years of experience in creating cool interfaces for awesome people around the world. Lately, I've been concentrating my attention on Ruby On Rails , BackboneJS , NodeJS , ExpressJS , AngularJS , OAuth  and PassportJS along with its strategies but I really enjoy to create other interfaces as well (php , css3 , html5 , AJAX , MySql , javascript).</p>
             </div>
         </div>
     </div>
@@ -106,19 +106,22 @@
                         <p><strong>Lead Web App Developer</strong> in New York. (FSD Office)</p>
                         <p class="description">Web Application Development under RubyOnRails with Ruby Gems (Rspec,Devise, DeviseLdap ,Guard,Cucumber) Development with TDD and BDD. 
 
-PSD to ERB.
+                                PSD to ERB.
 
-HAML, Cofee Script.
-Core Concepts of MVC in Rails along with BackboneJs / EmberJs .
-Google Analytics.
-Git deployment to Heroku.
-AWS + Web Services
-LinuxMint , Ubuntu and Lubuntu environment.
-Rails 4.2.3 over Ruby 2.2.2, 
-Jruby As JVM over Windows.
+                                HAML, Cofee Script.
+                                Core Concepts of MVC in Rails along with BackboneJs / EmberJs .
+                                Google Analytics.
+                                Git deployment to Heroku.
+                                AWS + Web Services
+                                LinuxMint , Ubuntu and Lubuntu environment.
+                                Rails 4.2.3 over Ruby 2.2.2, 
+                                Jruby As JVM over Windows.
 
-*Vagrant Machine over Ubuntu 14.04 Trusty Tahr*
-Synced Vagrant with HOST MACHINE for development</p>
+                                *Vagrant Machine over Ubuntu 14.04 Trusty Tahr*
+                                Synced Vagrant with HOST MACHINE for development.
+                                handlebarsjs along with API and JSON manipulation. API : Google , Dailymotion , KEEN.io (Analytic)
+
+                                </p>
                     </li>
                     <li>
                         <span class="note">August 2014 - August 2015</span>
@@ -242,6 +245,10 @@ As Highrise Technologies is IBM Business Partner Company so We Work on IBM Produ
                         <p class="description">Zaviya by Ishfaq Ahmed, What We Talk When We Talk About Love by Raymond Carver</p>
                     </li>
                     <li>
+                        <p><strong>Techs</strong></p>
+                        <p class="description">Love to explore every new technology come across in web development </p>
+                    </li>
+                    <li>
                         <p><strong>Art</strong></p>
                         <p class="description">Who don't love art and nature , huge fan of Photographic Societies over Instagram : jamesrelfdyer</p>
                     </li>
@@ -322,7 +329,7 @@ As Highrise Technologies is IBM Business Partner Company so We Work on IBM Produ
                         <span class="note">Email</span>
                         <p><strong><a href="#">workingquries@gmail.com</a></strong></p>
                         <hr class="empty">
-                        <form action="yeah.php" method="post">
+                        <form method="post" action="yeah.php" >
                             <div class="form-group input-group">
                                 <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
                                 <input name="yourname" type="text" class="form-control" id="inputname" placeholder="Enter your name" required>
