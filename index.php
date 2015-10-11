@@ -102,8 +102,8 @@
                     <li class="title"><span class="glyphicon glyphicon-briefcase"></span>Work experience</li>
                     <li>
                         <span class="note">Sepetmber 2015 - Current</span>
-                        <p><strong>WebSol Technologies</strong></p>
-                        <p><strong>Lead Web App Developer</strong> in New York. (FSD Office)</p>
+                        <p><strong>Compass Inc</strong></p>
+                        <p><strong>Lead Web App Developer</strong> in Canada. (Sahiwal Office)</p>
                         <p class="description">Web Application Development under RubyOnRails with Ruby Gems (Rspec,Devise, DeviseLdap ,Guard,Cucumber) Development with TDD and BDD. 
 
                                 PSD to ERB.
