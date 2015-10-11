@@ -131,7 +131,13 @@
 As Highrise Technologies is IBM Business Partner Company so We Work on IBM Products such as IBM Security Access Manager. So currently I am On Product Side and My Concentrations are on IBM Security Access Manager which are Product Installation and Deployment.</p>
                     </li>
                     <li>
-                        <span class="note">September 2012 - Current</span>
+                        <span class="note">March 2013 - August 2014</span>
+                        <p><strong>WebSol Technologies</strong></p>
+                        <p><strong>Web Developer</strong>in New York. (FSD Office)</p>
+                        <p class="description"> Web Application development and Research & Design to develop and add features to their running products. </p>
+                    </li>
+                    <li>
+                        <span class="note">September 2012 - January 2013</span>
                         <p><strong>Future Fame (Freelancer)</strong></p>
                         <p><strong>Lead Web Developer</strong> in Anaheim, CA</p>
                         <p class="description">I'm a part time freelancer with 3 years of experience in creative industry, plus Web Designer professional. During the graduation, I worked in marketing agencies and retail companies' marketing departments, as a web designer in Future Fame. 
