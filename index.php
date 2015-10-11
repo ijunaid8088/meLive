@@ -133,7 +133,7 @@ As Highrise Technologies is IBM Business Partner Company so We Work on IBM Produ
                     <li>
                         <span class="note">March 2013 - August 2014</span>
                         <p><strong>WebSol Technologies</strong></p>
-                        <p><strong>Web Developer</strong>in New York. (FSD Office)</p>
+                        <p><strong>Web Developer</strong> in New York. (FSD Office)</p>
                         <p class="description"> Web Application development and Research & Design to develop and add features to their running products. </p>
                     </li>
                     <li>
