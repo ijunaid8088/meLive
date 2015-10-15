@@ -134,7 +134,7 @@ As Highrise Technologies is IBM Business Partner Company so We Work on IBM Produ
                         <span class="note">March 2013 - August 2014</span>
                         <p><strong>WebSol Technologies</strong></p>
                         <p><strong>Web Developer</strong> in New York. (FSD Office)</p>
-                        <p class="description"> Web Application development and Research & Design to develop and add features to their running products. </p>
+                        <p class="description">WebSol is an United States Located Company and have an office in Faisalabad too. The Company hold their business over Sharp Web Technologies and MVCs such as Laravel , AngularJS, BackboneJS, NodeJS, Ruby On Rails, Git. I started working here as a Web Designer and after few months I promoted as Web Developer I worked here on Ruby On Rails and PHP, and developed many projects on R & D (Research and Design). I started working here during my Bachelor’s Degree and worked till my graduation. </p>
                     </li>
                     <li>
                         <span class="note">September 2012 - January 2013</span>
