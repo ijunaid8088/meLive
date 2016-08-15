@@ -56,7 +56,7 @@
                 <img src="img/face.jpg" class="face" alt="">
                 <hr class="empty">
                 <p class="header-name">Junaid Farooq</p>
-                
+                <p class="header-title">I am a designer who think in code.</p>
                 <p class="header-subtitle">I am a 23 years old Web App Developer and Website Designer that lives in Sahiwal, Pakistan. I have over 3 years of experience in creating cool interfaces for awesome people around the world. Lately, I've been concentrating my attention on Ruby On Rails , BackboneJS , NodeJS , ExpressJS , AngularJS , OAuth  and PassportJS along with its strategies but I really enjoy to create other interfaces as well (php , css3 , html5 , AJAX , MySql , javascript).</p>
             </div>
         </div>
