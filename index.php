@@ -87,7 +87,7 @@
                     </li>
                     <li>
                         <span class="note">Facebook</span>
-                        <p><strong><a href="#">http://www.facebook.com/iOkay.uOkay</a></strong></p>
+                        <p><strong><a href="#">https://www.facebook.com/alienhelicopter</a></strong></p>
                     </li>
                 </ul>
             </div>
@@ -101,26 +101,27 @@
                 <ul>
                     <li class="title"><span class="glyphicon glyphicon-briefcase"></span>Work experience</li>
                     <li>
-                        <span class="note">Sepetmber 2015 - Current</span>
+                        <span class="note">December 2015 - Current</span>
+                        <p><strong>Evercam.io</strong></p>
+                        <p><strong>Software Developer</strong> in Faisalabad Pakistan.</p>
+                        <p class="description">Evercam.io is Irish Company with large amount of customers for Cameras.
+
+I started working on github/evercam-admin and made it pretty much stable and usable then moved on to github/evercam-api, Both there are in Ruby On rails and Ruby Sinatra respectively. Currently am working on elixir for past few months and contributing to github/evercam-media
+
+Web Application Development under Ruby On Rails with Ruby Gems (Rspec,Devise, Devise Ldap ,Guard,Cucumber) Development with TDD and BDD. 
+PSD to ERB. HAML, Coffeescript. Core Concepts of MVC in Rails along with BackboneJs / EmberJs. Google Analytics. Git deployment to Heroku. AWS + Web Services.
+LinuxMint , Ubuntu and Lubuntu environment. Rails 4.2.3 over Ruby 2.2.2, Jruby As JVM over Windows. *Vagrant Machine over Ubuntu 14.04 Trusty Tahr* Synced Vagrant with HOST MACHINE for development. handlebars js along with API and JSON manipulation. API : Google , Dailymotion , KEEN.io (Analytic)
+Core Concepts of MVC in Rails along with JS Libraries
+Git deployment to Heroku.
+AWS + Web Services + Elastic Beanstalk + SeaweedFS + RAID
+
+NodeJS | ExpressJS | OAuth | Passport JS Strategies | Datatables</p>
+                    </li>
+                    <li>
+                        <span class="note">Sepetmber 2015 - December 2015</span>
                         <p><strong>Compass Inc</strong></p>
                         <p><strong>Lead Web App Developer</strong> in Canada. (Sahiwal Office)</p>
-                        <p class="description">Web Application Development under RubyOnRails with Ruby Gems (Rspec,Devise, DeviseLdap ,Guard,Cucumber) Development with TDD and BDD. 
-
-                                PSD to ERB.
-
-                                HAML, Cofee Script.
-                                Core Concepts of MVC in Rails along with BackboneJs / EmberJs .
-                                Google Analytics.
-                                Git deployment to Heroku.
-                                AWS + Web Services
-                                LinuxMint , Ubuntu and Lubuntu environment.
-                                Rails 4.2.3 over Ruby 2.2.2, 
-                                Jruby As JVM over Windows.
-
-                                *Vagrant Machine over Ubuntu 14.04 Trusty Tahr*
-                                Synced Vagrant with HOST MACHINE for development.
-                                handlebarsjs along with API and JSON manipulation. API : Google , Dailymotion , KEEN.io (Analytic)
-
+                        <p class="description">Compass Inc. is a Canadian Company, having a small office in Sahiwal along with 13 Sharp eye developers and I am one of them. Where we thoroughly develop Applications and WebSites for our clients all over the world mostly in Ruby on Rails.
                                 </p>
                     </li>
                     <li>
@@ -178,40 +179,20 @@ As Highrise Technologies is IBM Business Partner Company so We Work on IBM Produ
                 <ul>
                     <li class="title"><span class="glyphicon glyphicon-tasks"></span>Professional skills</li>
                     <li>
-                        <p>HTML5<span class="annotation pull-right">95%</span></p>
-                        <div class="progress">
-                            <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width: 95%;"></div>
-                        </div>
-                    </li>
-                    <li>
-                        <p>CSS3<span class="annotation pull-right">85%</span></p>
-                        <div class="progress">
-                            <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%;"></div>
-                        </div>
-                    </li>
-                    <li>
-                        <p>JAVASCRIPT<span class="annotation pull-right">70%</span></p>
-                        <div class="progress">
-                            <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div>
-                        </div>
-                    </li>
-                    <li>
-                        <p>PSD to HTML5<span class="annotation pull-right">90%</span></p>
-                        <div class="progress">
-                            <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div>
-                        </div>
-                    </li>
-                    <li>
-                        <p>PHP<span class="annotation pull-right">70%</span></p>
-                        <div class="progress">
-                            <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div>
-                        </div>
-                    </li>
-                    <li>
-                        <p>Ruby On Rails<span class="annotation pull-right">90%</span></p>
-                        <div class="progress">
-                            <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 70%;"></div>
-                        </div>
+Web Design (HTML5, CSS3, AJAX, JAVASCRIPT, JQUERY, BOOTSTRAP, HAML)</br>
+Web Development (Elixir, Phoenix, Ruby on Rails, PHP, PDO and MySQL)</br>
+NodeJS , ExpressJS, Mongo-Express</br>
+MVC Architecture </br>
+Ruby Gems (Devise , Rspec manymore)</br>
+Handelbarsjs for API JSON data manipulation || Datatables</br>
+KEEN.io (Analytics) along with other APIs e.g Daily Motion</br>
+Database Management (SQL, SQLITE, PG, NoSQL, mongoDB)</br>
+PSD to Web Design (HTML5)</br>
+TDD (Rspec, Capybara, ExUnit Testing)</br>
+Version Control (Git) </br>
+Research and Design Expert, Sublime Text</br>
+GitHub & Bitbucket</br>
+Linux Distributions</br>
                     </li>
                 </ul>
             </div>
