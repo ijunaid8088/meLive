@@ -193,6 +193,7 @@ Version Control (Git) </br>
 Research and Design Expert, Sublime Text</br>
 GitHub & Bitbucket</br>
 Linux Distributions</br>
+SeaweedFS | RAID | Nagios
                     </li>
                 </ul>
             </div>
