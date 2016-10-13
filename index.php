@@ -83,7 +83,7 @@
                     </li>
                     <li>
                         <span class="note">GitHub</span>
-                        <p><strong><a href="#">https://github.com/ijunaidfarooq</a></strong></p>
+                        <p><strong><a href="#">https://github.com/ijunaid8088</a></strong></p>
                     </li>
                     <li>
                         <span class="note">Facebook</span>
